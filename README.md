@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-# DESCRIPTION OF THE TASK
+##DESCRIPTION OF THE TASK
 
 ✅ Task 1: Social Media Post Calendar
 Description (500+ words):
@@ -28,3 +28,7 @@ The deliverable for this task is an Excel or Google Sheet format post calendar t
 •	Post Type (Reel, Story, Carousel, etc.)
 •	Objective (Engagement, Sales, Awareness)
 This document not only serves as a content plan but can be used as a collaboration tool across design and social teams. It helps in maintaining content consistency, managing time more effectively, and aligning with marketing campaigns. This structured planning avoids last-minute chaos and helps achieve the brand’s digital goals smoothly.
+
+##Excel sheet
+
+![Image](https://github.com/user-attachments/assets/f465eb86-9a05-4113-ac5b-f2c770fb0ec2)
